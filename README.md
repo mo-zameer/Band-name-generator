@@ -10,7 +10,11 @@ User Interaction: A simple button click triggers the name generation process, pr
 
 To run the project:
 Ensure you have Node.js and its package manager npm installed on your system.
-Open your terminal or command prompt and use the 'cd' command to navigate to the directory where your Node.js project is located and run the following commands:
-npm init
-npm i
-node index.js
+Open your terminal or command prompt and use the 'cd' command to navigate to the directory where your Node.js project is located and run the following commands one-by-one without enclosing in brackets:
+[npm init]
+[npm i]
+[node index.js]
+
+![image](https://github.com/user-attachments/assets/3c8ec0f7-c468-4a46-8678-676a487b085b)
+![image](https://github.com/user-attachments/assets/40ae94b5-d0a0-4216-9762-c91bed1064e2)
+![image](https://github.com/user-attachments/assets/748f3870-0749-4197-aa19-5a15af6eefd6)
